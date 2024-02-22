@@ -136,7 +136,7 @@ const educationInfo = {
     },
     {
       schoolName: "Narsee Monjee Institute of Management Studies",
-      logo: require("./assets/images/nmims-logo.jpeg"),
+      logo: require("./assets/images/nmims.png"),
       subHeader:
         "Bachelor of Science in Computer Science and Business Systems ",
       duration: "Auguest 2019 - May 2023",
