@@ -192,8 +192,7 @@ const workExperiences = {
       company: "University of Illinois Urbana-Champaign",
       companylogo: require("./assets/images/uiuc-logo.jpg"),
       date: "Jan 2024 – Present",
-      desc: "Teaching Assistant for Data Science for Geosciences and Risk Analysis(Statistics) for Geosciences.",
-      skills: "Skills - React Native, Node JS, Express JS, MongoDB, ML, SVM"
+      desc: "Teaching Assistant for Data Science for Geosciences and Risk Analysis(Statistics) for Geosciences."
     },
     {
       role: "Software Engineering Intern",
