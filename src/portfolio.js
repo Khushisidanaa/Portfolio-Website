@@ -23,7 +23,7 @@ const greeting = {
   username: "Khushi Sidana",
   title: "Hello, I'm Khushi!",
   subTitle: emoji(
-    "An aspiring  Software Enginee with a strong foundation in data structures and algorithms, primarily in Python. Proficient in crafting applications with React, JavaScript, and TypeScript, I am passionate about the seamless integration of software engineering with data science principles. Skilled in cloud technologies, including AWS, Docker, and Kubernetes, I aim to deliver robust and scalable solutions."
+    "An aspiring  Software Engineer with a strong foundation in data structures and algorithms, primarily in Python. Proficient in crafting applications with React, JavaScript, and TypeScript, I am passionate about the seamless integration of software engineering with data science principles. Skilled in cloud technologies, including AWS, Docker, and Kubernetes, I aim to deliver robust and scalable solutions."
   ),
   resumeLink:
     "https://github.com/Khushisidanaa/Resume/blob/main/Khushi%20Sidana%20-%20Resume.pdf", // Set to empty to hide the button
