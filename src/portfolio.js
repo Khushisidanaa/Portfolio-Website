@@ -200,7 +200,7 @@ const workExperiences = {
       skills: "Skills - React Native, Node JS, Express JS, MongoDB, ML, SVM",
 
       companylogo: require("./assets/images/smartech-logo.png"),
-      date: "May 2022 – Oct 2018",
+      date: "May 2022 – Oct 2022",
       desc: "Directed the development and implementation of a mobile employee attendance application using MERN stack, integrating REST APIs for location tracking and added face identification"
     },
     {
