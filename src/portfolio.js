@@ -341,7 +341,7 @@ const githubProjects = {
       footerLink: [
         {
           name: "Github ",
-          url: "https://github.com/Khushisidanaa/Health-and-Fitnessg"
+          url: "https://github.com/Khushisidanaa/Health-and-Fitness"
         }
       ]
     },
